@@ -1,0 +1,24 @@
+#btn{
+    
+    top: 39px;
+    left: 62px;
+    position:absolute;
+}
+#res_btn{
+    position: absolute;;
+    top: 73px;
+    left: 121px;
+}
+.res{
+     
+    position: relative;
+    top: 25px;
+   
+}
+td{
+    border: 2px solid black;
+}
+h2{
+    background-color: rgb(222, 220, 220);
+}
+
